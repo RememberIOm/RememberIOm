@@ -3,7 +3,7 @@
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RememberIOm&layout=compact&hide=Makefile&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RememberIOm&langs_count=8&layout=compact&hide=Makefile&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠 Tools
 
