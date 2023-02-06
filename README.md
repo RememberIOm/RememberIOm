@@ -12,4 +12,3 @@
 ### ✅ Solved.ac
 
 <a href="https://solved.ac/l412206"><img align="left" alt="solved.ac" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=l412206"/> </a><img src="http://mazandi.herokuapp.com/api?handle=l412206&theme=warm"/>
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=FFBF00&height=200&section=footer)
